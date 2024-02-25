@@ -1,7 +1,7 @@
 # Bangalore-apartment-price-predictor
 
 Objective:
-The goal of this data analysis project is to develop a predictive model for apartment prices in Bangalore. This involves exploring and analyzing various features that influence housing prices in the city, like rooms, square-feet, locality etc; creating a robust dataset, and building a predictive model that can estimate apartment prices based on input features.
+The goal of this data analysis project is to develop a predictive model for apartment prices in Bangalore. This involves exploring and analyzing various features that influence housing prices in the city, like rooms, square-feet, locality etc, creating a robust dataset, and building a predictive model that can estimate apartment prices based on input features.
 
 Key Steps:
 
