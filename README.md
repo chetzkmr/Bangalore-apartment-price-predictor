@@ -14,7 +14,8 @@ Key Steps:
         Conducted data preprocessing steps, converting all values into numerical values, including normalization using MinMax scaler.
 
     Exploratory Data Analysis (EDA):
-        Explored the dataset using descriptive statistics, visualizations, and correlation analysis to understand the relationships between different features and housing              prices. Identified key factors influencing property prices in Bangalore.
+        Explored the dataset using descriptive statistics, visualizations, and correlation analysis to understand the relationships between different features and housing              prices.
+        Identified key factors influencing property prices in Bangalore.
 
     Feature Engineering:
         Created new features or transformed existing ones to enhance the predictive power of the model.
